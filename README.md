@@ -1,1 +1,1 @@
-# haniya-cafes-scheduler
+# Haniya Cafes Staff and Shift Scheduler
